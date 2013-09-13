@@ -1,0 +1,6 @@
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\TestIzpit01\05.TwoIsBetterThanOne\bin\Debug\05.TwoIsBetterThanOne.exe.config
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\TestIzpit01\05.TwoIsBetterThanOne\bin\Debug\05.TwoIsBetterThanOne.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\TestIzpit01\05.TwoIsBetterThanOne\bin\Debug\05.TwoIsBetterThanOne.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\TestIzpit01\05.TwoIsBetterThanOne\obj\Debug\05.TwoIsBetterThanOne.csprojResolveAssemblyReference.cache
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\TestIzpit01\05.TwoIsBetterThanOne\obj\Debug\05.TwoIsBetterThanOne.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\TestIzpit01\05.TwoIsBetterThanOne\obj\Debug\05.TwoIsBetterThanOne.pdb

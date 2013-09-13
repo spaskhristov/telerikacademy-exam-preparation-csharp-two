@@ -1,0 +1,6 @@
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\TestIzpit01\02.JoroTheRabbit\bin\Debug\02.JoroTheRabbit.exe.config
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\TestIzpit01\02.JoroTheRabbit\bin\Debug\02.JoroTheRabbit.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\TestIzpit01\02.JoroTheRabbit\bin\Debug\02.JoroTheRabbit.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\TestIzpit01\02.JoroTheRabbit\obj\Debug\02.JoroTheRabbit.csprojResolveAssemblyReference.cache
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\TestIzpit01\02.JoroTheRabbit\obj\Debug\02.JoroTheRabbit.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\TestIzpit01\02.JoroTheRabbit\obj\Debug\02.JoroTheRabbit.pdb

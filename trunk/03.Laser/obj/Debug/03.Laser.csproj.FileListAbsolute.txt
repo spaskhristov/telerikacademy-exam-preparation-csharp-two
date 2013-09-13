@@ -1,0 +1,6 @@
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\TestIzpit01\03.Laser\bin\Debug\03.Laser.exe.config
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\TestIzpit01\03.Laser\bin\Debug\03.Laser.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\TestIzpit01\03.Laser\bin\Debug\03.Laser.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\TestIzpit01\03.Laser\obj\Debug\03.Laser.csprojResolveAssemblyReference.cache
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\TestIzpit01\03.Laser\obj\Debug\03.Laser.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\TestIzpit01\03.Laser\obj\Debug\03.Laser.pdb

@@ -1,0 +1,5 @@
+c:\users\tttt\documents\visual studio 2012\Projects\TestIzpit01\01.KaspichanNum\bin\Debug\01.KaspichanNum.exe.config
+c:\users\tttt\documents\visual studio 2012\Projects\TestIzpit01\01.KaspichanNum\bin\Debug\01.KaspichanNum.exe
+c:\users\tttt\documents\visual studio 2012\Projects\TestIzpit01\01.KaspichanNum\bin\Debug\01.KaspichanNum.pdb
+c:\users\tttt\documents\visual studio 2012\Projects\TestIzpit01\01.KaspichanNum\obj\Debug\01.KaspichanNum.exe
+c:\users\tttt\documents\visual studio 2012\Projects\TestIzpit01\01.KaspichanNum\obj\Debug\01.KaspichanNum.pdb
