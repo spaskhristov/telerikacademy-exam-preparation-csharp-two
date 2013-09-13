@@ -1,0 +1,6 @@
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\TestIzpit01\04.BasicLanguage\bin\Debug\04.BasicLanguage.exe.config
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\TestIzpit01\04.BasicLanguage\bin\Debug\04.BasicLanguage.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\TestIzpit01\04.BasicLanguage\bin\Debug\04.BasicLanguage.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\TestIzpit01\04.BasicLanguage\obj\Debug\04.BasicLanguage.csprojResolveAssemblyReference.cache
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\TestIzpit01\04.BasicLanguage\obj\Debug\04.BasicLanguage.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\TestIzpit01\04.BasicLanguage\obj\Debug\04.BasicLanguage.pdb

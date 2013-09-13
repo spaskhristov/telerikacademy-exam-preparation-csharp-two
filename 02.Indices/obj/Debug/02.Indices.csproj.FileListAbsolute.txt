@@ -1,0 +1,6 @@
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\TestIzpit01\02.Indices\bin\Debug\02.Indices.exe.config
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\TestIzpit01\02.Indices\bin\Debug\02.Indices.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\TestIzpit01\02.Indices\bin\Debug\02.Indices.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\TestIzpit01\02.Indices\obj\Debug\02.Indices.csprojResolveAssemblyReference.cache
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\TestIzpit01\02.Indices\obj\Debug\02.Indices.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\TestIzpit01\02.Indices\obj\Debug\02.Indices.pdb

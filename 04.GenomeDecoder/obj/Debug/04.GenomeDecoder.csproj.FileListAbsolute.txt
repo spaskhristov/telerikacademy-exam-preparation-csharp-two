@@ -1,0 +1,6 @@
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\TestIzpit01\04.GenomeDecoder\bin\Debug\04.GenomeDecoder.exe.config
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\TestIzpit01\04.GenomeDecoder\bin\Debug\04.GenomeDecoder.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\TestIzpit01\04.GenomeDecoder\bin\Debug\04.GenomeDecoder.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\TestIzpit01\04.GenomeDecoder\obj\Debug\04.GenomeDecoder.csprojResolveAssemblyReference.cache
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\TestIzpit01\04.GenomeDecoder\obj\Debug\04.GenomeDecoder.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\TestIzpit01\04.GenomeDecoder\obj\Debug\04.GenomeDecoder.pdb

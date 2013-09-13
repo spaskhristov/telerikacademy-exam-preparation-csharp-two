@@ -1,0 +1,5 @@
+c:\users\tttt\documents\visual studio 2012\Projects\TestIzpit01\01.DurankulakStrNum\bin\Debug\01.DurankulakStrNum.exe.config
+c:\users\tttt\documents\visual studio 2012\Projects\TestIzpit01\01.DurankulakStrNum\bin\Debug\01.DurankulakStrNum.exe
+c:\users\tttt\documents\visual studio 2012\Projects\TestIzpit01\01.DurankulakStrNum\bin\Debug\01.DurankulakStrNum.pdb
+c:\users\tttt\documents\visual studio 2012\Projects\TestIzpit01\01.DurankulakStrNum\obj\Debug\01.DurankulakStrNum.exe
+c:\users\tttt\documents\visual studio 2012\Projects\TestIzpit01\01.DurankulakStrNum\obj\Debug\01.DurankulakStrNum.pdb

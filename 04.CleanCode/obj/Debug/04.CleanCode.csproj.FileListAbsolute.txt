@@ -1,0 +1,5 @@
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\TestIzpit01\04.CleanCode\bin\Debug\04.CleanCode.exe.config
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\TestIzpit01\04.CleanCode\bin\Debug\04.CleanCode.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\TestIzpit01\04.CleanCode\bin\Debug\04.CleanCode.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\TestIzpit01\04.CleanCode\obj\Debug\04.CleanCode.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\TestIzpit01\04.CleanCode\obj\Debug\04.CleanCode.pdb

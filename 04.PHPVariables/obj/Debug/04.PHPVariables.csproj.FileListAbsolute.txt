@@ -1,0 +1,6 @@
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\TestIzpit01\04.PHPVariables\bin\Debug\04.PHPVariables.exe.config
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\TestIzpit01\04.PHPVariables\bin\Debug\04.PHPVariables.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\TestIzpit01\04.PHPVariables\bin\Debug\04.PHPVariables.pdb
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\TestIzpit01\04.PHPVariables\obj\Debug\04.PHPVariables.csprojResolveAssemblyReference.cache
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\TestIzpit01\04.PHPVariables\obj\Debug\04.PHPVariables.exe
+C:\Users\tttt\Documents\Visual Studio 2012\Projects\TestIzpit01\04.PHPVariables\obj\Debug\04.PHPVariables.pdb

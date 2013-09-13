@@ -1,0 +1,6 @@
+c:\users\tttt\documents\visual studio 2012\Projects\TestIzpit01\01.KaspichanStrNum\bin\Debug\01.KaspichanStrNum.exe.config
+c:\users\tttt\documents\visual studio 2012\Projects\TestIzpit01\01.KaspichanStrNum\bin\Debug\01.KaspichanStrNum.exe
+c:\users\tttt\documents\visual studio 2012\Projects\TestIzpit01\01.KaspichanStrNum\bin\Debug\01.KaspichanStrNum.pdb
+c:\users\tttt\documents\visual studio 2012\Projects\TestIzpit01\01.KaspichanStrNum\obj\Debug\01.KaspichanStrNum.csprojResolveAssemblyReference.cache
+c:\users\tttt\documents\visual studio 2012\Projects\TestIzpit01\01.KaspichanStrNum\obj\Debug\01.KaspichanStrNum.exe
+c:\users\tttt\documents\visual studio 2012\Projects\TestIzpit01\01.KaspichanStrNum\obj\Debug\01.KaspichanStrNum.pdb
